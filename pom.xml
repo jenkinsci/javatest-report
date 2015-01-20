@@ -16,7 +16,17 @@
       <id>ramapulavarthi</id>
       <name>Rama Pulavarthi</name>
     </developer>
+    <developer>
+      <id>lvotypko</id>
+      <name>Lucie Votypkova</name>
+    </developer>
   </developers>
+  
+  <scm>
+    <connection>scm:git:git://github.com/jenkinsci/javatest-report.git</connection>
+    <developerConnection>scm:git:git@github.com:jenkinsci/javatest-report.git</developerConnection>
+    <url>http://github.com/jenkinsci/javatest-report</url>
+  </scm>
 
     <repositories>
         <repository>
